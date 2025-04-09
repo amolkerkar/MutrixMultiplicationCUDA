@@ -55,7 +55,7 @@ Note: The speedup is bounded by SM availability (8 on my device) and memory band
 - Verified using **NVIDIA Nsight Systems**.
 
 
-## 📌 How to Run
+## How to Run
 
 ### 1. Compile
 ```bash
